@@ -1,0 +1,30 @@
+{
+  "name": "news-express-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaravtiku/mynewswire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaravtiku/mynewswire/issues"
+  },
+  "homepage": "https://github.com/aaravtiku/mynewswire#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "axios": "^1.3.3",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fuse.js": "^6.6.2",
+    "mongodb": "5.0",
+    "openai": "^3.1.0",
+    "pm2": "^5.2.2"
+  }
+}
