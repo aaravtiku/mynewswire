@@ -1,6 +1,6 @@
 # news-express-api
 
-This is the backend for my group's hackathon project at MHacks(University of Michigan's annual collegiate hackathon).
+This is the backend for my group's hackathon project at MHacks(University of Michigan's annual collegiate hackathon) where we won the third place and also won the prize for the Best Use of MongoDB Atlas.
 
 Check out our frontend: https://github.com/Arnav710/mhacks-frontend 
 
